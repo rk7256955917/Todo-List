@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    max-width: 500px;
+    box-shadow: rgba(0,0,0,0.2) 0px 10px 25px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 20px;
+    padding:30px;
+    /* border: 1px solid red; */
+    background-color: rgb(120, 48, 187);
+}
+body{
+    background-color: rgb(167, 149, 216);
+    padding-left: 35%;
+}
+.
+.search-box{
+    border-radius: 10px;
+
+}
